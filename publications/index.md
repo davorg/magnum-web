@@ -19,10 +19,10 @@ The only book to cover the Template Toolkit.
 
 ## Talks
 
-See the [talks page](/publications/talks) for a list of the talks
+See the [talks page](/publications/talks/) for a list of the talks
 given by Magnum Solutions staff.
 
 ## Articles
 
-See the [articles page](/publications/articles) for a list of articles
+See the [articles page](/publications/articles/) for a list of articles
 and columns written by Magnum Solutions staff.

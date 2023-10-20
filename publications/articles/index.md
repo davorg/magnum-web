@@ -12,10 +12,10 @@ If you have any comments on existing articles, please send them to the
 
 An introduction to RSS Feeds
 
-* [Introducing RSS](/publications/articles/introducing-rss)  
+* [Introducing RSS](introducing-rss/)  
 Part 1: Reading RSS Feeds
 
-## perl.com Articled
+## perl.com Articles
 
 Articles that I have written for [perl.com](https://perl.com/).
 See [Perl Hacks](https://perlhacks.com/articles/perl-com/).
@@ -35,9 +35,9 @@ See [Perl Hacks](https://perlhacks.com/articles/rtfm/).
 
 ## General Articles
 
-* [It’s Not Still 1998](https://mag-sol.com/publications/articles/its-not-still-1998/)  
+* [It’s Not Still 1998](its-not-still-1998/)  
 Why do many web sites still act like it is?
 * [Symbol::Approx::Sub](https://perlhacks.com/articles/symbolapproxsub/)  
 A Perl module for bad typists
-* [Why Does My File Have Funny Characters In It?](https://mag-sol.com/publications/articles/crlf/)  
+* [Why Does My File Have Funny Characters In It?](crlf/)  
 The problems with line endings on different Operating Systems.

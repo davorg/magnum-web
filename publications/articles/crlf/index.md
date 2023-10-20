@@ -1,4 +1,6 @@
-# Why does my file have funny characters in it?
+---
+title: Why does my file have funny characters in it?
+---
 
 One of the most common problems that people come across when moving files
 between different computer systems is that their line endings seem to be

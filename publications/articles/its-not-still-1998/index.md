@@ -1,4 +1,6 @@
-# It's not still 1998
+---
+title: It's not still 1998
+---
 
 Why do so many web sites ignore the advances in web technology that
 have been made since 1998?

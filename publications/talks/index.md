@@ -1,4 +1,6 @@
-# Talks
+---
+title: Talks
+---
 
 On this page you will (eventually) find links to all of the talks
 that Magnum Solutions staff have  given at various conferences and

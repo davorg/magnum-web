@@ -1,4 +1,6 @@
-# Publications
+---
+title: Publications
+---
 
 Magnum Solutions staff have published a lot of material on our areas of
 expertise. Here is a list:

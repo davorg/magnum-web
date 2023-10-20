@@ -1,3 +1,5 @@
+# Introducing RSS
+
 If you know someone who is slightly geeky and always seems to be that bit
 more in touch with what’s going on in the world that you are, then they are
 probably using RSS feeds to keep themselves up to date.

@@ -8,13 +8,13 @@ Dave Cross writes a blog about Perl programming over at
 
 ## Books
 
-* ***Data Munging with Perl***  
+* [***Data Munging with Perl***](https://datamungingwithperl.com/)  
 Many books on Perl concentrate on its use as in CGI programming. But
 that’s not what Perl was designed for – or even what it does best.
 *Data Munging with Perl* looks at efficient ways to use Perl to manipulate
 data in its many forms.
 
-* ***Perl Template Toolkit***  
+* [***Perl Template Toolkit***](https://datamungingwithperl.com/)  
 The only book to cover the Template Toolkit.
 
 ## Talks

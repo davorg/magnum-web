@@ -2,6 +2,8 @@
 title: Why does my file have funny characters in it?
 ---
 
+## {{ page.title }}
+
 One of the most common problems that people come across when moving files
 between different computer systems is that their line endings seem to be
 destroyed. In this article, Dave Cross looks at this problem and suggests
@@ -9,7 +11,7 @@ some simple solutions.
 
 ---
 
-## Introduction
+### Introduction
 
 If it hasn’t happened to you at some point then I can almost guarantee that
 it will in the future. You transfer a text file from a DOS/Windows system
@@ -21,7 +23,7 @@ rectangle.
 You have become a victim of the non-standardisation of line endings across
 different operating systems.
 
-## What are line endings?
+### What are line endings?
 
 When you edit a text file in your favourite editor, whether it is an HTML
 page, the source code of a computer program, a poem or a shopping list, you
@@ -66,7 +68,7 @@ insists on them both (and notice that they must be in the order given, CR
 before LF). Armed with this knowledge we can begin to explain what goes wrong
 when you move a text file from its native operating system.
 
-## Moving Text Files
+### Moving Text Files
 
 It is important to note that a text file when stored on disk does not contain
 the text formatted into lines. The lines are stored in one long stream of
@@ -79,7 +81,7 @@ data is left untouched (that ‘normally’ hints at a solution which we will co
 to in more detail later). Let’s examine what happens in some common cases and
 see if we can explain the problems described above.
 
-## Windows to Unix
+### Windows to Unix
 
 Imagine a Unix editor (like vi or emacs) opening a text file that was created
 under Windows. The text characters in the first line are all interpreted
@@ -114,13 +116,13 @@ As the editor moves through the file it displays each line straight after the
 previous one, separated only by the black rectangle that represent the
 unprintable LF character.
 
-## Macintosh Transfers
+### Macintosh Transfers
 
 Hopefully you can now see how these problems are caused. I’ll leave it to you
 to think about what will happen when Unix or Windows files are transfered to
 a Macintosh.
 
-## Problems Caused
+### Problems Caused
 
 So how much of a problem does this cause?
 
@@ -132,12 +134,12 @@ line endings don’t matter. If your program gives unexpected results then it
 might be worth investigating wherther the input files have come from another
 system and might be suffering from this problem.
 
-## Solutions
+### Solutions
 
 There are a number of ways to get round or fix this problem. In increasing
 order of complexity, they are:
 
-### Fixing the file in an editor
+#### Fixing the file in an editor
 
 If you have a broken file and you want to fix it quickly, it may be possible
 to fix it using your editor. Certainly on Unix, most editors are powerful
@@ -153,7 +155,7 @@ I’m not sure if this option is open to you on Windows or MacOS, certainly
 Notepad doesn’t have the capability to fix this problem. If anyone can give
 any more information on this, then please let me know.
 
-###  Fixing the file during transfer
+####  Fixing the file during transfer
 
 Remember earlier when I said that when moving files to another operating
 system, the binary data in the file was normally unaltered. Well, it is
@@ -183,7 +185,7 @@ transfer mode as there isn’t a transfer as such. It is, however, often
 possible to configure NFS to automatically switch into ASCII mode depending
 on the extension of the file.
 
-### Fixing the file with software
+#### Fixing the file with software
 
 Some Unix varients come complete with filter programs called `dos2unix` and
 `unix2dos` which will handle the conversions for you. They are implemented
@@ -204,7 +206,7 @@ written in Perl.
       print;
     }
 
-## Conclusions
+### Conclusions
 
 This is certainly becoming one of the the most common problems that I see
 discussed on Usenet. It has become much more prevalent now that people create

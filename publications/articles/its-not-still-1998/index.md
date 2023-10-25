@@ -2,6 +2,8 @@
 title: It's not still 1998
 ---
 
+## {{ page.title }}
+
 Why do so many web sites ignore the advances in web technology that
 have been made since 1998?
 
@@ -36,7 +38,7 @@ still see sites that are made of some nightmare version of HTML that might
 almost be HTML 3.2 (but isn’t anywhere near being valid). We still see
 ($deity help us) browser sniffing.
 
-## Why is this?
+### Why is this?
 
 In my opinion, the reason is that whilst we’ve made massive improvements in
 the available tools, we’re still stuck with the same designers andi

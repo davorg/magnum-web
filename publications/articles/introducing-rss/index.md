@@ -2,6 +2,8 @@
 title: Introducing RSS
 ---
 
+## {{ page.title }}
+
 If you know someone who is slightly geeky and always seems to be that bit
 more in touch with what’s going on in the world that you are, then they are
 probably using RSS feeds to keep themselves up to date.
@@ -9,7 +11,7 @@ probably using RSS feeds to keep themselves up to date.
 But fortunately, you don’t need to be a geek to make use of RSS feeds. In
 this article, Dave Cross explains what they are and how to use them.
 
-## What is an RSS Feed?
+### What is an RSS Feed?
 
 An RSS feed is nothing more complicated than a file which someone makes
 available for other people to download over the internet. In that way it’s
@@ -30,7 +32,7 @@ all his information from RSS feeds.
 We’ll look in how that all works in a bit more detail later on, but first
 let’s look at the kinds of information that you can get from RSS.
 
-## What Can You Get From an RSS Feed?
+### What Can You Get From an RSS Feed?
 
 An RSS feed basically contains a list of pieces of information. Each piece
 of information in the list contains a title, a web link and (optionally)
@@ -72,7 +74,7 @@ photos or when someone comments on one of my photos. Every day someone comes up
 with new types of information to share with RSS. And all of this data appears
 in the same way in my RSS reader.
 
-## Reading RSS Feeds
+### Reading RSS Feeds
 
 Hopefully that list has whetted your appetite and you’re now keen to start
 reading RSS feeds. To do that you need to find an RSS feed reader. There are
@@ -99,7 +101,7 @@ feeds in your list, clicking on the ‘xxx feeds’ link at the top of the list
 will display all of the new items in all of your feeds in the right-hand
 pane.
 
-## Finding Feeds to Read
+### Finding Feeds to Read
 
 So how do you go about finding interesting feeds to subscribe to? It’s
 probably best to look at the problem from the opposite direction. You already
@@ -153,7 +155,7 @@ web page to read the whole item. This is particularly common if the original
 site like to serve you lots of adverts! Personally, I always choose a full
 text version if it’s available.
 
-## Conclusion
+### Conclusion
 
 That’s how simple it is to start to use RSS. You too can become one of those
 people who are always up to date with the latest news.

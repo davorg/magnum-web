@@ -2,8 +2,6 @@
 title: Talks
 ---
 
-## {{ page.title }}
-
 On this page you will (eventually) find links to all of the talks
 that Magnum Solutions staff have  given at various conferences and
 meetings. Currently these are scattered rather haphazardly across

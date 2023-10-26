@@ -2,8 +2,6 @@
 title: It's not still 1998
 ---
 
-## {{ page.title }}
-
 Why do so many web sites ignore the advances in web technology that
 have been made since 1998?
 

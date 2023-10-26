@@ -2,8 +2,6 @@
 title: Articles
 ---
 
-## {{ page.title }}
-
 In this section of the site we have a selection of useful articles that
 cover our areas of expertise.
 

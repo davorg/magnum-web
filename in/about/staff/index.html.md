@@ -5,6 +5,8 @@ by Magnum Solutions.
 
 ## Dave Cross
 
+<img style="float: right;" src="/assets/images/Dave.png">
+
 > "Given the quality of a lot of the Open Source software out there, I really
 > don’t understand why so many companies spend so much money on proprietary
 > software"

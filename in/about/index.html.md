@@ -12,4 +12,4 @@ some of the largest investment banks to some tiny dotcom start-up companies.
 
 We use [Open Source Software](/about/opensource/).
 
-A list of i[some of our clients](/about/clients/).
+A list of [some of our clients](/about/clients/).

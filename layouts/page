@@ -6,20 +6,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Articles | Magnum Solutions Ltd.</title>
+<title>[% IF page.title; page.title _ '| '; END %][% site.title %]</title>
 <meta name="generator" content="Jekyll v3.9.3" />
 <meta property="og:title" content="Articles" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="The Magnum Solutions web site" />
 <meta property="og:description" content="The Magnum Solutions web site" />
-<link rel="canonical" href="https://davorg.dev/magnum-web/publications/articles/" />
-<meta property="og:url" content="https://davorg.dev/magnum-web/publications/articles/" />
-<meta property="og:site_name" content="Magnum Solutions Ltd." />
+<link rel="canonical" href="[% site.base %]publications/articles/" />
+<meta property="og:url" content="[% site.base %]publications/articles/" />
+<meta property="og:site_name" content="[% site.title %]" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Articles" />
+<meta property="twitter:title" content="[% page.title || site.title %]" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"The Magnum Solutions web site","headline":"Articles","url":"https://davorg.dev/magnum-web/publications/articles/"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"The Magnum Solutions web site","headline":"[% page.title OR site.title %]","url":"[% site.base %]publications/articles/"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/assets/css/style.css?v=de99a748c3491784b06b78184446e15713bc878b">
@@ -38,10 +38,10 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://davorg.dev/magnum-web/">[% site.title %]</a></h1>
+      <h1><a href="[% site.base %]">[% site.title %]</a></h1>
       
 
-      <h2 id="articles">[% page.title %]</h2>
+      <h2 id="title">[% page.title %]</h2>
 
 [% content %]
       

@@ -18,7 +18,7 @@ that’s not what Perl was designed for – or even what it does best.
 *Data Munging with Perl* looks at efficient ways to use Perl to manipulate
 data in its many forms.
 
-* [***Perl Template Toolkit***](https://datamungingwithperl.com/)  
+* [***Perl Template Toolkit***](https://davecross.co.uk/books/#perl-template-toolkit)  
 The only book to cover the Template Toolkit.
 
 ### Talks

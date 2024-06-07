@@ -24,3 +24,14 @@ p, ol { margin-left: 10%; margin-right: 10%;
 .attrib { margin-left: 25%; margin-right: 25%; 
 	  margin-top: 0;
 	  text-align: right; }
+
+table.plug {
+  font-size: 1em;
+}
+
+table.footer {
+  font-size: 0.5em;
+  position: fixed;
+  bottom: 10px;
+}
+

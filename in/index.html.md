@@ -1,8 +1,8 @@
 # Magnum Solutions Limited
 
 This is the site that Dave Cross used to promote his open source software
-consultancy from the date the domain was registered in 1997 until the end
-of 2023.
+consultancy from the date the domain was registered in 1997 until the 
+middle of 2024.
 
 Most of the useful stuff that used to be here is now on
 [davecross.co.uk](https://davecross.co.uk/) or

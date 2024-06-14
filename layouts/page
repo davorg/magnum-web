@@ -14,6 +14,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <link ref="canonical" href="[% page.uri %]">
+
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>[% IF page.title; page.title _ '| '; END %][% site.title %]</title>
 <meta name="generator" content="Jekyll v3.9.3" />
@@ -21,7 +23,7 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="The Magnum Solutions web site" />
 <meta property="og:description" content="The Magnum Solutions web site" />
-<link rel="canonical" href="[% site.base %]publications/articles/" />
+<link rel="canonical" href="[% site.base %]/[% template.name %]" />
 <meta property="og:url" content="[% site.base %]publications/articles/" />
 <meta property="og:site_name" content="[% site.title %]" />
 <meta property="og:type" content="website" />

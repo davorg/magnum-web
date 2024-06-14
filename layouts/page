@@ -14,7 +14,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link ref="canonical" href="[% page.uri %]">
+    <link ref="canonical" href="[% file.uri %]">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>[% IF page.title; page.title _ '| '; END %][% site.title %]</title>
@@ -23,8 +23,7 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="The Magnum Solutions web site" />
 <meta property="og:description" content="The Magnum Solutions web site" />
-<link rel="canonical" href="[% site.base %]/[% template.name %]" />
-<meta property="og:url" content="[% site.base %]publications/articles/" />
+<meta property="og:url" content="[% file.uri %]" />
 <meta property="og:site_name" content="[% site.title %]" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
@@ -47,7 +46,7 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="[% site.base %]">[% site.title %]</a></h1>
+      <h1><a href="[% site.uri %]/">[% site.title %]</a></h1>
       
 
       <h2 id="title">[% page.title %]</h2>

@@ -17,9 +17,6 @@ jobs:
     - name: Aphra version
       run: aphra -v
 
-    - name: FIXME
-      run: mkdir docs && mkdir docs/cv
-
     - name: Create pages
       run: aphra build > aphra.log 2>&1
 

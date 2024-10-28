@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
+[% IF site.ga4 -%]
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-8V1YR6KPDF"></script>
     <script>
@@ -8,8 +9,9 @@
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
 
-      gtag('config', 'G-8V1YR6KPDF');
+      gtag('config', '[% site.ga4 %]');
     </script>
+[% END -%]
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -21,15 +23,22 @@
 <meta name="generator" content="Jekyll v3.9.3" />
 <meta property="og:title" content="Articles" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="The Magnum Solutions web site" />
-<meta property="og:description" content="The Magnum Solutions web site" />
+<meta name="description" content="[% page.desc OR site.desc OR 'The Magnum Solutions web site' %]" />
+<meta property="og:description" content="[% page.desc OR site.desc OR 'The Magnum Solutions web site' %]" />
 <meta property="og:url" content="[% file.uri %]" />
 <meta property="og:site_name" content="[% site.title %]" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="[% page.title || site.title %]" />
+<meta property="twitter:title" content="[% page.title OR site.title %]" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"The Magnum Solutions web site","headline":"[% page.title OR site.title %]","url":"[% site.base %]publications/articles/"}</script>
+{
+  "@context":"https://schema.org",
+  "@type":"WebPage",
+  "description":"[% site.desc OR 'The Magnum Solutions web site' %]",
+  "headline":"[% page.title OR site.title %]",
+  "url":"[% file.uri %]"
+}
+</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/assets/css/style.css?v=de99a748c3491784b06b78184446e15713bc878b">

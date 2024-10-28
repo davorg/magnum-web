@@ -58,7 +58,7 @@
       <h1><a href="[% site.uri %]">[% site.title %]</a></h1>
       
 
-      <h2 id="title">[% page.title %]</h2>
+      <h2 id="title">[% site.title OR page.title %]</h2>
 
 [% content %]
       

@@ -21,6 +21,7 @@ jobs:
       run: aphra build > aphra.log 2>&1
 
     - name: Archive aphra logs
+      if: success() || failure()
       uses: actions/upload-artifact@v4
       with:
         name: aphra.log

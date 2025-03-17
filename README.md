@@ -2,4 +2,4 @@
 
 The Magnum Solutions web site.
 
-This site is powered by [`aphra`](https://metacpan.org/dist/App-Aphra/view/bin/aphra). 
+This site is powered by [Aphra](https://aphra.perlhacks.com/). 

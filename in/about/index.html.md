@@ -12,6 +12,8 @@ or so he had encountered Perl and that soon became his primary focus.
 Since that time, Dave has worked for a wide range of companies in London from
 some of the largest investment banks to some tiny dotcom start-up companies.
 
-We use [Open Source Software](/about/opensource/).
+* We use [Open Source Software](/about/opensource/).
 
-A list of [some of our clients](/about/clients/).
+* A list of [some of our clients](/about/clients/).
+
+* Find out more about [our staff](/about/staff/).

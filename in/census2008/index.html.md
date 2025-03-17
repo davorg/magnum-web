@@ -1,4 +1,6 @@
-# Perl Mongers Census 2008
+---
+title: Perl Mongers Census 2008
+---
 
 This page used to hold the data from a census of the
 [Perl Mongers groups](https://pm.org/) that I took back in 2008. Over fifteen

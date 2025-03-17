@@ -1,4 +1,6 @@
-# We’re Recruiting
+---
+title: We’re Recruiting
+---
 
 Magnum Solutions Ltd are looking to expand by taking on some new staff.
 If you think you can fill any of the following roles, please contact us.

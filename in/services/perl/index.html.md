@@ -1,4 +1,6 @@
-# Perl
+---
+title: Perl
+---
 
 Magnum Solutions staff are well-known in the Perl community. This is really
 our core skill. If you need any assistance with Perl work, then we are the

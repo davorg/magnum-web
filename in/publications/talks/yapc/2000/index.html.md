@@ -1,4 +1,7 @@
-# YAPC London 2000
+---
+title: YAPC London 2000
+---
+
 A list of the talks that Dave Cross gave at
 [YAPC::Europe 2000](http://www.yapceurope.org/2000/).
 

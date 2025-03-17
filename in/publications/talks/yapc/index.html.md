@@ -1,4 +1,6 @@
-# YAPC
+---
+title: YAPC
+---
 
 These are the talks we have given at various YAPC conferences.
 

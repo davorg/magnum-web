@@ -1,4 +1,6 @@
-# About
+---
+title: About
+---
 
 Magnum Solutions was started in 1995 when Dave Cross left Buena Vista
 Home Entertainment (part of the Walt Disney Company) to become an independent

@@ -1,4 +1,6 @@
-# Open Source Software
+---
+title: Open Source Software
+---
 
 Magnum Solutions specialises in Open Source Software. In this section we take
 a look at what Open Source Software is and discuss what advantages it has for

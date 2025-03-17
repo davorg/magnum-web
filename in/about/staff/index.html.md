@@ -1,4 +1,6 @@
-# Staff
+---
+title: Staff
+---
 
 On this page you can find information about the staff that are employed
 by Magnum Solutions.

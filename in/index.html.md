@@ -11,7 +11,7 @@ useful or interesting on the [link farm](https://links.davecross.co.uk/).
 All of the old links should still work though (either by redirecting to a new
 version or by going to a hidden page on this site). If you follow a broken
 link to a page on [mag-sol.com](https://mag-sol.com/) then let us know by
-emailing [hello@mag-sol.com](mailto:hello@mag-sol.com) and we'll do what
-we can to get things fixed.
+emailing [hello@davecross.co.uk](mailto:hello@davecross.co.uk) and we'll do
+what we can to get things fixed.
 
 -- Dave (who likes talking about himself in the third person)

@@ -22,7 +22,7 @@ jobs:
 
     - name: Archive aphra logs
       if: success() || failure()
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v5
       with:
         name: aphra.log
         path: ./aphra.log

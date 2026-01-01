@@ -8,3 +8,6 @@ redirects:
     to: https://davecross.co.uk/cv/
   - from: /services/
     to: https://davecross.co.uk/services/
+  - from: /talks/
+    to: https://talks.davecross.co.uk/
+

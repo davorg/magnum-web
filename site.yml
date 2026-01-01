@@ -6,4 +6,5 @@ ga4: G-8V1YR6KPDF
 redirects:
   - from: /cv/
     to: https://davecross.co.uk/cv/
-
+  - from: /services/
+    to: https://davecross.co.uk/services/

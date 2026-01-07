@@ -10,4 +10,6 @@ redirects:
     to: https://davecross.co.uk/services/
   - from: /talks/
     to: https://talks.davecross.co.uk/
+  - from: /articles/
+    to: /publications/articles/
 

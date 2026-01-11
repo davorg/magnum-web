@@ -10,6 +10,12 @@ redirects:
     to: https://davecross.co.uk/services/
   - from: /talks/
     to: https://talks.davecross.co.uk/
+  - from: /talks/perlwhirl/
+    to: https://talks.davecross.co.uk/event/perl-whirl-04-2004/
+  - from: /talks/perlwhirl/idiomatic/
+    to: https://talks.davecross.co.uk/talk/idiomatic-perl/
+  - from: /talks/perlwhirl/toop/
+    to: https://talks.davecross.co.uk/talk/tieing-and-overloading-objects-in-perl/
   - from: /articles/
     to: /publications/articles/
 
